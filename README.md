@@ -3,6 +3,7 @@
 
 - Cursando Sistemad de Infomação 
 - Estundando C#
+- Contato: paulosergio_gyn@hotmail.com
 ##
 <div align="center">
   <a href="https://github.com/Paulooooj">
