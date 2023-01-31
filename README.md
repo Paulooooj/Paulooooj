@@ -1,7 +1,7 @@
 ### Oi prazer!! Eu sou o Paulo Sergio.
 
 
-- Cursando Sistemad de Infomação 
+- Cursando Sistemas de Infomação 
 - Estundando C#
 - Contato: paulosergio_gyn@hotmail.com
 ##
