@@ -2,7 +2,7 @@
 
 
 - Cursando Sistemas de Infomação 
-- Estundando C#
+- Estudando C#
 - Contato: paulosergio_gyn@hotmail.com
 ##
 <div align="center">
