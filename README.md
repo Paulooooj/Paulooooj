@@ -2,5 +2,5 @@
 
 
 - Cursando Sistemas de Infomação 
-- Estudando C#
+- Conhecimento em Java, C#, Html e CSS
 - Contato: paulosergio_gyn@hotmail.com
