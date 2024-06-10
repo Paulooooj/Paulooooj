@@ -3,7 +3,6 @@
 
 - Estudante de Sistemas de Infomação 
 - Conhecimento em C#, Java, JavaScript, HTML e CSS
-- Contato: paulosergio_gyn@hotmail.com
 ##
 <div align="center">
   <a href="https://github.com/Paulooooj">
