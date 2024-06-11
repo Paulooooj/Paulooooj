@@ -1,4 +1,4 @@
-### Oi eu sou o Paulo!!
+### Oi, eu sou o Paulo!!
 
 
 - Estudante de Sistemas de Infomação 
